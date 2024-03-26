@@ -1,6 +1,6 @@
-# Hi there, I'm *Anhnam* 👋 
+### Hi there, I'm *Anhnam* 👋 
 
-## About Me:
+#### About Me
 - 🔭 I’m currently working on *The Odin Project*.
 - 🌱 I’m currently learning *Javascript, React and Node.js*.
 - 💖 I'm passionate about *Design*.

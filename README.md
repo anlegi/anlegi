@@ -1,4 +1,4 @@
-### Hi there, I'm *Anhnam* 👋 
+### Hi there, I'm **Anhnam** 👋 
 
 #### About Me
 - 🔭 I’m currently working on *The Odin Project*.

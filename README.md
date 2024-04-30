@@ -8,5 +8,5 @@
 - ⚡ Fun fact: *I'm a night owl* 🌙🦉.
 - 📝 Check out my pinned projects!
 
-### Codewars
+#### Codewars
 ![CodeWars](https://www.codewars.com/users/anlegi/badges/small?theme=light)

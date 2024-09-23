@@ -12,4 +12,4 @@
 ![CodeWars](https://www.codewars.com/users/anlegi/badges/small?theme=light)
 
 #### Mood
-![Me](https://media1.tenor.com/m/jNgKSlUpmkEAAAAC/typing-laptop.gif)
+<img src="https://media1.tenor.com/m/jNgKSlUpmkEAAAAC/typing-laptop.gif" alt="drawing" width="100"/>

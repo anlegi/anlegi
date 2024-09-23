@@ -10,3 +10,6 @@
 
 #### Codewars
 ![CodeWars](https://www.codewars.com/users/anlegi/badges/small?theme=light)
+
+#### Mood
+![Me](https://tenor.com/de/view/typing-laptop-cat-busy-cute-gif-5822667)
